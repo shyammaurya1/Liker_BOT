@@ -1,0 +1,15 @@
+#from selenium import webdriver
+#from selenium.webdriver.common.keys import Keys
+The selenium.webdriver module provides all the WebDriver implementations
+
+#import sys
+This module provides access to some variables used or maintained by the interpreter 
+and to functions that interact strongly with the interpreter.
+
+#geckodriver
+geckodriver works as a intermeditare between the selenium and the browser.
+
+#selenium
+selenium is a framework which is generally called as web testing tool.
+
+
